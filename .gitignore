@@ -1,2 +1,3 @@
 *.txt
 tmp/*.txt
+tmp/password.txt
